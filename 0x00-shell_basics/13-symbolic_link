@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'lrwxrwxrwx    1 root root    7 Sep 10 05:05 _ls_ -> /bin/ls'
+ls -s /bin/ls __ls__
