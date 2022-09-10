@@ -1,1 +1,1 @@
-This is the repo for all my devops projects
+The project file for all devops projects.
