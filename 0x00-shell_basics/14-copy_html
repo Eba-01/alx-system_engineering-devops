@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -n ./*.html .. $(echo -e "/n")
+cp -u ./*.html ..
