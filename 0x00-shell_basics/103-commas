@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "$(ls -ap)" | sed -e 's/$/,/' -e '$s/,$//'
