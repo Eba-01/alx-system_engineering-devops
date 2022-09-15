@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -ap)" | sed -e 's/\n/,/' -e '$s/,$//'
+ls -amF --file-type
